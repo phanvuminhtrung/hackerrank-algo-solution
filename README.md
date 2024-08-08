@@ -16,27 +16,7 @@ Welcome to my HackerRank Algorithm Solutions repository! This repo contains solu
 This repository contains my solutions to algorithm problems on HackerRank. The solutions aim to be efficient, well-documented, and easy to understand. The challenges vary in difficulty, from easy to hard, and cover a range of topics like sorting, searching, dynamic programming, and more.
 
 ## Folder Structure
-
-The repository is structured as follows:
-📁 HackerRank/
-│
-├── 📁 Easy/
-│ ├── solution1.ext
-│ ├── solution2.ext
-│ └── ...
-│
-├── 📁 Medium/
-│ ├── solution1.ext
-│ ├── solution2.ext
-│ └── ...
-│
-├── 📁 Hard/
-│ ├── solution1.ext
-│ ├── solution2.ext
-│ └── ...
-│
-└── README.md
-
+![alt text](image.png)
 
 - **Easy/**: Contains solutions to easy-level problems.
 - **Medium/**: Contains solutions to medium-level problems.
