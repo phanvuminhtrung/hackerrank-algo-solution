@@ -24,18 +24,6 @@ This repository contains my solutions to algorithm problems on HackerRank. The s
 
 Each folder contains files named according to the problem they solve. The `.ext` denotes the file extension of your programming language (e.g., `.py`, `.cpp`, `.java`, etc.).
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute:
-
-1. **Fork the repository**.
-2. **Create a new branch** (`git checkout -b feature-branch`).
-3. **Commit your changes** (`git commit -m 'Add some feature'`).
-4. **Push to the branch** (`git push origin feature-branch`).
-5. **Open a pull request**.
-
-Please ensure that your code is well-documented and follows the coding style of this repository.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
